@@ -1,0 +1,7 @@
+API key: BkaUZZWcFij6J7AoQj3WtPb1R2p9O6V9
+
+Request URL:  https://api.giphy.com/v1/gifs
+
+search with some parameters:  https://api.giphy.com/v1/gifs/search?api_key=BkaUZZWcFij6J7AoQj3WtPb1R2p9O6V9&q=&limit=10&offset=0&rating=G&lang=en
+
+    limit, offset (optionsl), rating, lang 
